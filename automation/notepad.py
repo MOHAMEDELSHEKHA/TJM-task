@@ -4,7 +4,7 @@ import pygetwindow as gw
 import time
 import os
 
-SAVE_DIRECTORY = os.path.join(os.path.expanduser("~"), "OneDrive", "Desktop", "tjm-project")
+SAVE_DIRECTORY = os.path.join(os.path.expanduser("~"), "Desktop", "tjm-project")
 
 
 def ensure_save_directory():
